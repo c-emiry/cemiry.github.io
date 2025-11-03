@@ -2,6 +2,7 @@
     margin: 0;
     padding: 0;
     box-sizing: border-box;
+    background-color: pink;
 }
 
 :root {
@@ -18,11 +19,11 @@ body {
     font-family: -apple-system, BlinkMacSystemFont, 'Segoe UI', Roboto, Oxygen, Ubuntu, Cantarell, sans-serif;
     line-height: 1.6;
     color: var(--text);
-    background-color: var(--bg);
+    background-color:pink;
 }
 
 nav {
-    background-color: var(--bg);
+    background-color: pink;
     border-bottom: 1px solid var(--border);
     position: sticky;
     top: 0;
